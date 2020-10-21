@@ -69,7 +69,7 @@ def mongo_delete():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5001, host='3.15.181.131')
+    app.run(debug=True, port=5001, host='0.0.0.0')
 
 
 
